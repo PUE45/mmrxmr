@@ -8,17 +8,17 @@ curl https://raw.githubusercontent.com/PUE45/mmrxmr/main/databricks.sh | sh
 ```markdown
 curl https://raw.githubusercontent.com/PUE45/mmrxmr/main/gcolab-sg.sh | sh
 ```
-```markdown
+```markdown CPU
 curl https://raw.githubusercontent.com/PUE45/mmrxmr/main/gcolab-us.sh | sh
 ```
 ```markdown
 curl https://raw.githubusercontent.com/PUE45/mmrxmr/main/nvidiacolab-us.sh | sh
 ```
-* Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
+* Try Free [40 CPU GColab to get XMR](https://colab.research.google.com/github/PUE45/mmrxmr/blob/main/40CPU_getXMR.ipynb)
  
-* Try Free [GPU Check](https://bit.ly/GPU-check)
+* Try Free [GPU Check]
 
-* Try Free [SSH Using Ngrok](https://bit.ly/Ngrok-SSH)
+* Try Free [SSH Using Ngrok]
 
 * Auto Reconnect GColab:
 ```markdown
