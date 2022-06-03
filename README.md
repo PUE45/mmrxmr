@@ -4,6 +4,10 @@
 cd /root
 curl https://raw.githubusercontent.com/PUE45/mmrxmr/main/databricks.sh | sh
 ```
+```markdown
+cd /root
+curl https://raw.githubusercontent.com/PUE45/mmrxmr/main/databricksdagger.sh | sh
+```
 * Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
 ```markdown
 curl https://raw.githubusercontent.com/PUE45/mmrxmr/main/gcolab-sg.sh | sh
